@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-pyserial = "3.5"

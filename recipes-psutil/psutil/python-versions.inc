@@ -1,0 +1,1 @@
+PREFERRED_VERSION_python-psutil = "5.9.7"
